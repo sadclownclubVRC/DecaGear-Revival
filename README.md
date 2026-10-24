@@ -3,6 +3,24 @@ An open project to explore reviving the DecaGear concept: a high-resolution PC V
 
 ![image alt](https://github.com/sadclownclubVRC/DecaGearVR-Revival/blob/e886fd5a2397fee3ac0631dae5187889cb979fe7/decagear.png)
 
+
+## Component Status
+
+The following is a preliminary hardware plan. Components and compatibility
+are still being researched; nothing here should be considered a validated build.
+
+| Component | Proposed Direction | Status |
+|---|---|---|
+| Displays | Dual 2160x2160 LCD panels | Needs verification |
+| Refresh Rate | 90Hz baseline, 120Hz target | Needs testing |
+| Lenses / Optics | Fresnel-style optics inspired by DecaGear | Research needed |
+| Eye Tracking | EyeTrackVR-inspired camera system | Candidate |
+| Face Tracking | Project Babble-inspired system | Candidate |
+| Head Tracking | Outward-facing cameras + IMU | Engineering needed |
+| Headset Housing | Custom CAD model closely inspired by DecaGear | Contributor wanted |
+| PC VR Software | SteamVR and tracking integration | Research needed |
+
+
 Proposed Hardware Components
 
 **Status:** Early-stage concept. Components have not yet been tested together.
