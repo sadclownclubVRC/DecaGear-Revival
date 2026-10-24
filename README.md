@@ -4,6 +4,29 @@ An open project to explore reviving the DecaGear concept: a high-resolution PC V
 ![image alt](https://github.com/sadclownclubVRC/DecaGearVR-Revival/blob/e886fd5a2397fee3ac0631dae5187889cb979fe7/decagear.png)
 
 
+## 🤝 Help Bring DecaGear Back
+
+I'm looking for people interested in helping revive the original DecaGear VR headset concept as an unofficial, community-driven PC VR project.
+
+**You don't need to be able to do everything. Even help with one part would be appreciated!**
+
+### Contributors Wanted
+
+- 🎨 **3D Modellers / CAD Designers** — Create a headset exterior closely resembling the original DecaGear, with a practical internal layout.
+- 🔧 **VR Hardware Engineers** — Help design the display, optical, camera and tracking systems.
+- 👁️ **Eye-Tracking Developers** — Research camera hardware and eye-tracking software.
+- 😮 **Face-Tracking Developers** — Help integrate Project Babble or a compatible system.
+- 💻 **VR Software Developers** — Help with PC VR, SteamVR and tracking integration.
+- 🔍 **Hardware Researchers** — Find suitable components, suppliers and technical documentation.
+
+### How You Can Help
+
+You can contribute by sharing technical advice, suggesting components, researching hardware, designing CAD models or helping develop software.
+
+If you're interested, open an issue on this repository or start a discussion if enabled. Please mention which area you'd like to help with.
+
+
+
 ## Component Status
 
 The following is a preliminary hardware plan. Components and compatibility
