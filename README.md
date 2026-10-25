@@ -3,6 +3,8 @@ An open project to explore reviving the DecaGear concept: a high-resolution PC V
 
 ![image alt](https://github.com/sadclownclubVRC/DecaGearVR-Revival/blob/e886fd5a2397fee3ac0631dae5187889cb979fe7/decagear.png)
 
+*Reference image of the original DecaGear headset, illustrating the intended exterior design. This project aims to recreate its distinctive appearance while exploring updated hardware. No working prototype has been built yet.*
+
 
 ## 🤝 Help Bring DecaGear Back
 
